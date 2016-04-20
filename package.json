@@ -1,0 +1,16 @@
+{
+  "name": "test_geocodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "jsonfile": "^2.2.3",
+    "mongoose": "^4.4.12"
+  }
+}

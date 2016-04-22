@@ -3,8 +3,18 @@
       {
          "address_components" : [
             {
-               "long_name" : "Samarate",
-               "short_name" : "Samarate",
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Ottorino Respighi",
+               "short_name" : "Via Ottorino Respighi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cascina Elisa",
+               "short_name" : "Cascina Elisa",
                "types" : [ "locality", "political" ]
             },
             {
@@ -33,38 +43,28 @@
                "types" : [ "postal_code" ]
             }
          ],
-         "formatted_address" : "21017 Samarate VA, Italia",
+         "formatted_address" : "Via Ottorino Respighi, 6, 21017 Cascina Elisa VA, Italia",
          "geometry" : {
-            "bounds" : {
-               "northeast" : {
-                  "lat" : 45.6430867,
-                  "lng" : 8.8042525
-               },
-               "southwest" : {
-                  "lat" : 45.6027756,
-                  "lng" : 8.7624716
-               }
-            },
             "location" : {
-               "lat" : 45.6260364,
-               "lng" : 8.787032399999999
+               "lat" : 45.6043753,
+               "lng" : 8.796061699999999
             },
-            "location_type" : "APPROXIMATE",
+            "location_type" : "ROOFTOP",
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.6430867,
-                  "lng" : 8.8042525
+                  "lat" : 45.6057242802915,
+                  "lng" : 8.797410680291502
                },
                "southwest" : {
-                  "lat" : 45.6027756,
-                  "lng" : 8.7624716
+                  "lat" : 45.6030263197085,
+                  "lng" : 8.794712719708498
                }
             }
          },
-         "place_id" : "ChIJkVjwFxOKhkcRbfhmH_LQCJw",
-         "types" : [ "locality", "political" ]
+         "partial_match" : true,
+         "place_id" : "ChIJdUQKaliKhkcRblmeE8Xk-GU",
+         "types" : [ "street_address" ]
       }
    ],
    "status" : "OK"
 }
-

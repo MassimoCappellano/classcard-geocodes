@@ -83,6 +83,7 @@ const ProvinciaSchema = mongoose.Schema({
 const ComuneSchema = mongoose.Schema({
 	pk: { type: Number, unique: true},
 	name: String,
+	postalCode: Number,
 	provincia_id: Number,
 	altitudine: Number,
 	superficie: Number,

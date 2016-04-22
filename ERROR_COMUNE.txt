@@ -1,0 +1,356 @@
+********************* ERROR **************
+{ address: 'Cornale e Bastida PV, IT',
+  components: 'components=country:IT',
+  language: 'it',
+  region: 'it' }
+
+  { [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: socket hang up] code: 'ECONNRESET' }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+{ [Error: getaddrinfo ENOTFOUND maps.googleapis.com maps.googleapis.com:443]
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'maps.googleapis.com',
+  host: 'maps.googleapis.com',
+  port: 443 }
+  

@@ -3,18 +3,18 @@
       {
          "address_components" : [
             {
-               "long_name" : "Samarate",
-               "short_name" : "Samarate",
+               "long_name" : "Milano",
+               "short_name" : "Milano",
                "types" : [ "locality", "political" ]
             },
             {
-               "long_name" : "Samarate",
-               "short_name" : "Samarate",
+               "long_name" : "Milano",
+               "short_name" : "Milano",
                "types" : [ "administrative_area_level_3", "political" ]
             },
             {
-               "long_name" : "Provincia di Varese",
-               "short_name" : "VA",
+               "long_name" : "Città Metropolitana di Milano",
+               "short_name" : "MI",
                "types" : [ "administrative_area_level_2", "political" ]
             },
             {
@@ -26,45 +26,39 @@
                "long_name" : "Italia",
                "short_name" : "IT",
                "types" : [ "country", "political" ]
-            },
-            {
-               "long_name" : "21017",
-               "short_name" : "21017",
-               "types" : [ "postal_code" ]
             }
          ],
-         "formatted_address" : "21017 Samarate VA, Italia",
+         "formatted_address" : "Milano, Italia",
          "geometry" : {
             "bounds" : {
                "northeast" : {
-                  "lat" : 45.6430867,
-                  "lng" : 8.8042525
+                  "lat" : 45.535689,
+                  "lng" : 9.2903463
                },
                "southwest" : {
-                  "lat" : 45.6027756,
-                  "lng" : 8.7624716
+                  "lat" : 45.3897787,
+                  "lng" : 9.065118199999999
                }
             },
             "location" : {
-               "lat" : 45.6260364,
-               "lng" : 8.787032399999999
+               "lat" : 45.4654219,
+               "lng" : 9.1859243
             },
             "location_type" : "APPROXIMATE",
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.6430867,
-                  "lng" : 8.8042525
+                  "lat" : 45.535689,
+                  "lng" : 9.2903463
                },
                "southwest" : {
-                  "lat" : 45.6027756,
-                  "lng" : 8.7624716
+                  "lat" : 45.3897787,
+                  "lng" : 9.065118199999999
                }
             }
          },
-         "place_id" : "ChIJkVjwFxOKhkcRbfhmH_LQCJw",
+         "place_id" : "ChIJ53USP0nBhkcRjQ50xhPN_zw",
          "types" : [ "locality", "political" ]
       }
    ],
    "status" : "OK"
 }
-

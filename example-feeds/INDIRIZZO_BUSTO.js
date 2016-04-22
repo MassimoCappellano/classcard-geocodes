@@ -3,13 +3,13 @@
       {
          "address_components" : [
             {
-               "long_name" : "Samarate",
-               "short_name" : "Samarate",
+               "long_name" : "Busto Arsizio",
+               "short_name" : "Busto Arsizio",
                "types" : [ "locality", "political" ]
             },
             {
-               "long_name" : "Samarate",
-               "short_name" : "Samarate",
+               "long_name" : "Busto Arsizio",
+               "short_name" : "Busto Arsizio",
                "types" : [ "administrative_area_level_3", "political" ]
             },
             {
@@ -28,43 +28,42 @@
                "types" : [ "country", "political" ]
             },
             {
-               "long_name" : "21017",
-               "short_name" : "21017",
+               "long_name" : "21052",
+               "short_name" : "21052",
                "types" : [ "postal_code" ]
             }
          ],
-         "formatted_address" : "21017 Samarate VA, Italia",
+         "formatted_address" : "21052 Busto Arsizio VA, Italia",
          "geometry" : {
             "bounds" : {
                "northeast" : {
-                  "lat" : 45.6430867,
-                  "lng" : 8.8042525
+                  "lat" : 45.6401114,
+                  "lng" : 8.882338299999999
                },
                "southwest" : {
-                  "lat" : 45.6027756,
-                  "lng" : 8.7624716
+                  "lat" : 45.5868377,
+                  "lng" : 8.805325099999999
                }
             },
             "location" : {
-               "lat" : 45.6260364,
-               "lng" : 8.787032399999999
+               "lat" : 45.611892,
+               "lng" : 8.8531265
             },
             "location_type" : "APPROXIMATE",
             "viewport" : {
                "northeast" : {
-                  "lat" : 45.6430867,
-                  "lng" : 8.8042525
+                  "lat" : 45.6401114,
+                  "lng" : 8.882338299999999
                },
                "southwest" : {
-                  "lat" : 45.6027756,
-                  "lng" : 8.7624716
+                  "lat" : 45.5868377,
+                  "lng" : 8.805325099999999
                }
             }
          },
-         "place_id" : "ChIJkVjwFxOKhkcRbfhmH_LQCJw",
+         "place_id" : "ChIJQ7SGUJCLhkcRbp6Og_a8GEY",
          "types" : [ "locality", "political" ]
       }
    ],
    "status" : "OK"
 }
-

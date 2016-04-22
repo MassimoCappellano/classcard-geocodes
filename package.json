@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.3.5",
+    "googlemaps": "^1.4.0",
     "jsonfile": "^2.2.3",
     "mongoose": "^4.4.12"
   }

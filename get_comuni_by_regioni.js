@@ -44,6 +44,12 @@ function loadCoordinateComune(comune, codiceProv){
 	var gmAPI = new GoogleMapsAPI(publicConfig);
 
 	gmAPI.geocode(geocodeParams2, function(err, result){
+
+			if(err){
+				console.error("COMUNE -> " + comune.name + " - " + codiceProv + ", IT");
+				return console.error(err);
+			}
+
 		  // console.log(result);
 		  console.log("RESULT COORDINATE: ---> " +  util.inspect(result, { showHidden: true, depth: null }));
 
@@ -63,6 +69,21 @@ function loadCoordinateComune(comune, codiceProv){
 		  	COORDINATES[1] = arrResults[0].geometry.location.lat;
 
 		  	comune.location.coordinates = COORDINATES;
+
+		  	const addressComponents = arrResults[0].address_components;
+
+		  	let postalCode;
+
+		  	addressComponents.forEach( addressComp => {
+		  		if (addressComp.types[0] === 'postal_code')
+		  			postalCode = addressComp.short_name;
+		  	});
+
+		  	if(postalCode){
+		  		 comune.postalCode = postalCode;
+		  	}
+
+
 		  	comune.save();
 
 		  } else {
@@ -168,5 +189,93 @@ function getCoordinateComuniByRegione(nomeRegione){
 	    });
 }
 
-getCoordinateComuniByRegione('Piemonte');
+// getCoordinateComuniByRegione('Lombardia');
 
+function loadCoordinateComuneByName(comune, codiceProv){
+
+	// console.log("LOADING COORDITE COMUNE: " + comune.name + " - COD_PROV: " + codiceProv);
+
+  	var geocodeParams2 = {
+  		"address":    comune + " " + codiceProv + ", IT",
+  		"components": "components=country:IT",
+  		// "bounds":     "55,-1|54,1",
+  		"language":   "it",
+  		"region":     "it"
+  	};
+
+	var publicConfig = {
+  		key: 'AIzaSyDopFGfG7qwz24oHWfDdyU14b3aW10SHZM',
+  		stagger_time:       1000, // for elevationPath
+  		encode_polylines:   false,
+  		secure:             true // use https
+  		// proxy:              'http://127.0.0.1:9999' // optional, set a proxy for HTTP requests
+	};
+
+	var gmAPI = new GoogleMapsAPI(publicConfig);
+
+	gmAPI.geocode(geocodeParams2, function(err, result){
+
+			if(err){
+				console.error("COMUNE -> " + comune + " - " + codiceProv + ", IT");
+				return console.error(err);
+			}
+		  // console.log(result);
+		  
+		  console.log("RESULT COORDINATE: ---> " +  util.inspect(result, { showHidden: true, depth: null }));
+
+		  if(result && result.status === 'OK'){
+
+		  	let arrResults = result.results;
+
+		  	console.log("*********** " + comune + " - " + codiceProv + " **************");
+
+		  	// console.log(util.inspect(arrResults[0].geometry.location, { showHidden: true, depth: null }));
+
+		  	var COORDINATES = [];
+
+		  	COORDINATES[0] = arrResults[0].geometry.location.lng;
+		  	COORDINATES[1] = arrResults[0].geometry.location.lat;
+
+		  	console.log(COORDINATES);
+
+		  	const addressComponents = arrResults[0].address_components;
+
+		  	let postalCode;
+
+		  	addressComponents.forEach( addressComp => {
+		  		if (addressComp.types[0] === 'postal_code')
+		  			postalCode = addressComp.short_name;
+		  	});
+
+		  	if(postalCode){
+		  		console.log('FOUND POSTAL_CODE: ' + postalCode);
+		  	}
+
+		  } else {
+		  	console.log("********************* ERROR **************");
+		  	console.log(geocodeParams2);
+		   }
+		  
+  
+	});
+	
+
+}
+
+// loadCoordinateComuneByName('Milano', 'MI');
+
+// loadCoordinateComuneByName('Cascina Elisa', 'VA');
+
+// loadCoordinateComuneByName('Busto Arsizio', 'VA');
+
+// loadCoordinateComuneByName('Samarate', 'VA');
+
+// loadCoordinateComuneByName('via Ottorino Respigni, 6, Samarate', 'VA');
+
+// Cornale e Bastida PV 
+
+// loadCoordinateComuneByName('Cornale e Bastida', 'PV');
+
+// loadCoordinateComuneByName('Cornale', 'PV');
+
+// loadCoordinateComuneByName('Bastida', 'PV');
